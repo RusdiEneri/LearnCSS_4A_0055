@@ -1,1 +1,1 @@
-<img src="assets/screenshot.png"/>
+![Preview](assets/screenshot.png)
