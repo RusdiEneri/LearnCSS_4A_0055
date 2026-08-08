@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku adalah aku, jadi aku akan menyelamatkannya karena itu membuatku puas. ❞</i>
+  <i>❝ Aku yakin suatu saat hari nanti, kita akan terbunuh juga. Sampai saat itu, mari kita hidup dengan keyakinan manusia. ❞</i>
   <br/>
-  <sub>— <b>Kuro no Rider</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Shiki Magata</b> · <i>Subete ga F ni Naru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
