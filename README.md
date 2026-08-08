@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku rasa semua orang pada awalnya juga mencoba dulu sebelum menyukainya. Kurasa kamu tidak perlu semangat tinggi atau alasan yang kuat untuk memulainya. Terkadang sesuatu yang kamu mulai perlahan-lahan akan menjadi hal yang penting bagimu. Untuk memulainya yang kamu perlukan hanya rasa keingintahuan. ❞</i>
+  <i>❝ Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini... ❞</i>
   <br/>
-  <sub>— <b>Kiyoko Shimizu</b> · <i>Haikyuu!! Second Season</i></sub>
+  <sub>— <b>Rintarou Okabe</b> · <i>Steins;Gate</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
